@@ -1,0 +1,2 @@
+In this Information Retrieval project, both of C++ programming and python programming were used respectively for calculating Term Frequency-Inverse Document Frequency (TFIDF) matrix and Singular Value Decomposition(SVD). Besides these main components required by the project, the evaluation was also conducted with a Python
+script le and some Indri built-in functions, such as runQuery, buildIndex and etc. The whole project was tested and implemented on SSLabs machines at Purdue University.
